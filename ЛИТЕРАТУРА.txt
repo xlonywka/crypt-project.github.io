@@ -1,0 +1,15 @@
+http://blog.emsisoft.com/ru/27739/программы-вымогатели-и-методы-шифров/
+http://www.ixbt.com/soft/alg-encryption.shtml
+http://pv.bstu.ru/crypto/shannon.pdf
+http://chernykh.net/content/view/159/
+http://webcrypt.org/ru
+http://infosecmd.narod.ru/gl5.html
+http://netcode.ru/cpp/?click=His3.htm
+http://protect.htmlweb.ru/
+Э. Мэйволд. Безопасность сетей.
+Шнайер Б. Applied Cryptography. Protocols, Algorithms and Source Code in C
+Жельников В. Криптография от папируса до компьютера
+К. Шеннон. Теория связи в секретных системах // Работы по теории информации и кибернетике / Перевод С. Карпова.
+Мао В. Современная криптография: Теория и практика — М.
+А. П. Алферов, А. Ю. Зубов, А. С. Кузьмин, А. В. Черемушкин. Основы Криптографии.
+Носов В. А. Краткий исторический очерк развития криптографии
